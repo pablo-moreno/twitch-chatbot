@@ -1,0 +1,12 @@
+{
+  "name": "twitch_chatbot",
+  "version": "1.0.0",
+  "description": "My Awesome Chatbot",
+  "main": "index.js",
+  "author": "Pablo Moreno",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "tmi.js": "^1.7.1"
+  }
+}
