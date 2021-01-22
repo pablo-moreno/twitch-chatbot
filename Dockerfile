@@ -1,4 +1,4 @@
-FROM node:12.16.3
+FROM node:14.15.4
 
 RUN mkdir /code
 WORKDIR /code
